@@ -1,5 +1,9 @@
 Revision history for HTML-Strip-utf8
 
-0.01    Date/time
-        First version, released on an unsuspecting world.
+0.02    2011-06-03
 
+    - Added HTML::Strip, Encode as a prereq
+
+0.01    2011-04-08
+
+    - First version, released on an unsuspecting world.
